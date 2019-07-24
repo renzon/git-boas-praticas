@@ -1,4 +1,4 @@
 def mue_print(x):
     ''' meu_print '''
-    x += 4 # sum 3
+    x += 4 # sum 4
     print(x)
